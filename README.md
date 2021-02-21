@@ -1,2 +1,1 @@
-# rsschool-cv
-CV
+https://github.com/Margaryta-Maletz/rsschool-cv/cv
