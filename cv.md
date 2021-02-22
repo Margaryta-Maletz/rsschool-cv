@@ -1,8 +1,7 @@
 # CV. 
 1. My name is ***Marharyta*** Malets.
 2. My phone number is __+375 (29) 352-26-92__. My email is <rita_maletz@mail.ru>.  
-
-  ---
+   ---
 3. I look for a job now. I like learn and I do it very well. I want to study prograaming in RS-school and find work in EPAM.  
 
 ---
