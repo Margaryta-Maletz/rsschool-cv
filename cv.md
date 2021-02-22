@@ -26,5 +26,7 @@
   This code will show next text:  
   <h1> Hello World! </h1>  
 6. I don't have experience work now.  
+
 7. I have higher Education.  
+
 8. My know English on Beginner level.
