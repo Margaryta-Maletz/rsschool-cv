@@ -6,7 +6,8 @@
    <hr>
 4. I don't have specialist knowledge now.
 5. I don't have examples my works now, but I have example primitive code:
-   ```<!DOCTYPE html>  
+   ```
+      <!DOCTYPE html>  
       <html lang="en">  
          <head>  
             <meta charset="UTF-8" />  
@@ -22,4 +23,4 @@
     <h1> Hello World! </h1>  
 6. I don't have work experience.
 7. I have higher Education.
-8. My know English on Beginner level.
+8. My English level is Beginner.
