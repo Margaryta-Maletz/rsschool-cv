@@ -1,0 +1,92 @@
+/*style for horizontally centered block*/
+body {
+  width: 800px;
+  margin: 0 auto;
+  padding: 10px;
+  border: 2px solid white;
+  color: white;
+  background-color: gray;
+}
+
+/*color link does not depend on the state*/
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: blue;
+}
+
+header {
+  position: relative;
+  min-height: 10px;
+  padding: 5px;
+  text-align: center;
+}
+
+/*location links in header*/
+.main-menu a {
+  margin-right: 40px;
+}
+
+/*main content*/
+main {
+  padding: 5px 10px;
+  color: black;
+  background-color: white;
+}
+
+section {
+  position: relative;
+  width: 800px;
+}
+
+article {
+  width: 500px;
+}
+
+img {
+  border: 4px solid blue;
+  border-radius: 10px;
+}
+
+h1,
+h2,
+h3 {
+  color: rgb(0, 80, 255);
+  padding-bottom: 2px;
+  margin-bottom: 5px;
+}
+
+.contact-list {
+  list-style: none;
+  padding-left: 12px;
+}
+
+aside {
+  position: absolute;
+  width: 220px;
+  bottom: 20px;
+  right: 30px;
+}
+
+pre {
+  padding: 2px 5px;
+  background-color: #e6e6e6;
+  border: 1px solid #707070;
+  border-radius: 4px;
+  color: #09081d;
+  font-size: 10px;
+}
+
+code {
+  font-family: "Courier New", "Courier", monospace;
+  line-height: 14px;
+}
+
+footer {
+  padding-top: 10px;
+}
+
+footer a {
+  margin-right: 20px;
+}
