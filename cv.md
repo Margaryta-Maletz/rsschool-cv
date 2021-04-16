@@ -1,4 +1,6 @@
 # CV. 
+This article is not relevant now. Please, see link https://margaryta-maletz.github.io/rsschool-cv/.
+
 1. My name is ***Marharyta*** Malets.
 2. My phone number is __+375 (29) 352-26-92__. My email is <rita_maletz@mail.ru>.  
    <hr>
