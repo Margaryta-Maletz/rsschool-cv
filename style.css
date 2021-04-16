@@ -41,7 +41,7 @@ section {
 }
 
 article {
-  width: 500px;
+  width: 100%;
 }
 
 .my-photo {
@@ -63,9 +63,9 @@ h2 {
 }
 
 footer {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
   padding-top: 10px;
-}
-
-footer a {
-  margin-right: 20px;
+  align-items: center;
 }
