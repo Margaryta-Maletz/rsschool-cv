@@ -1,0 +1,71 @@
+/*style for horizontally centered block*/
+body {
+  width: 800px;
+  margin: 0 auto;
+  padding: 10px;
+  border: 2px solid gray;
+  color: gray;
+  background-color: white;
+}
+
+/*color link does not depend on the state*/
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: blue;
+}
+
+header {
+  position: relative;
+  min-height: 10px;
+  padding: 5px;
+  text-align: center;
+}
+
+/*location links in header*/
+.main-menu a {
+  margin-right: 40px;
+}
+
+/*main content*/
+main {
+  padding: 5px 10px;
+  color: black;
+  background-color: lightgoldenrodyellow;
+}
+
+section {
+  position: relative;
+  width: 800px;
+}
+
+article {
+  width: 100%;
+}
+
+.my-photo {
+  border: 4px solid gray;
+  border-radius: 10px;
+}
+
+h1,
+h2 {
+  color: black;
+  font-weight: bold;
+  padding-bottom: 2px;
+  margin-bottom: 5px;
+}
+
+.contact-list {
+  list-style: none;
+  padding-left: 12px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding-top: 10px;
+  align-items: center;
+}
