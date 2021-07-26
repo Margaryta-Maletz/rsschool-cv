@@ -1,11 +1,12 @@
 /*style for horizontally centered block*/
 body {
-  width: 800px;
+  min-width: 400px;
+  width: 80%;
   margin: 0 auto;
   padding: 10px;
-  border: 2px solid gray;
+  border: 2px solid darkgray;
   color: gray;
-  background-color: white;
+  background-color: lightgray;
 }
 
 /*color link does not depend on the state*/
@@ -21,6 +22,8 @@ header {
   min-height: 10px;
   padding: 5px;
   text-align: center;
+  background-color: lightyellow;
+  border-bottom: 2px solid darkgray;
 }
 
 /*location links in header*/
@@ -32,16 +35,14 @@ header {
 main {
   padding: 5px 10px;
   color: black;
-  background-color: lightgoldenrodyellow;
+  background-color: lightyellow;
 }
 
 section {
-  position: relative;
-  width: 800px;
-}
-
-article {
-  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
 }
 
 .my-photo {
@@ -55,6 +56,7 @@ h2 {
   font-weight: bold;
   padding-bottom: 2px;
   margin-bottom: 5px;
+  text-align: center;
 }
 
 .contact-list {
@@ -68,4 +70,6 @@ footer {
   gap: 30px;
   padding-top: 10px;
   align-items: center;
+  background-color: lightyellow;
+  border-top: 2px solid darkgray;
 }
