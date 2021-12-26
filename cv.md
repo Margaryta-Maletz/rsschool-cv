@@ -4,7 +4,7 @@ This article is not relevant now. Please, see link https://margaryta-maletz.gith
 1. My name is ***Marharyta*** Malets.
 2. My phone number is __+375 (29) 352-26-92__. My email is <rita_maletz@mail.ru>.  
    <hr>
-3. I like learn and I do it very well. I studied prograaming in RS-school in 2021. I started working in EPAM in August 2021.  
+3. I like learn and I do it very well. I studied programming in RS-school in 2021. I started working in EPAM in August 2021.  
    <hr>
 4. I know HTML, CSS, JS and ReactJS quite good for my work.
 5. Example primitive code:
