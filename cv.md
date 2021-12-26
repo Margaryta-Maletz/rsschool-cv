@@ -4,10 +4,10 @@ This article is not relevant now. Please, see link https://margaryta-maletz.gith
 1. My name is ***Marharyta*** Malets.
 2. My phone number is __+375 (29) 352-26-92__. My email is <rita_maletz@mail.ru>.  
    <hr>
-3. I look for a job now. I like learn and I do it very well. I want to study prograaming in RS-school and find work in EPAM.  
+3. I like learn and I do it very well. I studied prograaming in RS-school in 2021. I started working in EPAM in August 2021.  
    <hr>
-4. I don't have specialist knowledge now.
-5. I don't have examples my works now, but I have example primitive code:
+4. I know HTML, CSS, JS and ReactJS quite good for my work.
+5. Example primitive code:
    ```
       <!DOCTYPE html>  
       <html lang="en">  
@@ -23,6 +23,6 @@ This article is not relevant now. Please, see link https://margaryta-maletz.gith
     ```   
     This code will show next text:  
     <h1> Hello World! </h1>  
-6. I don't have work experience.
+6. I have a big work experience in different jobs and a very small experience in front-end but I do my best every day.
 7. I have higher Education.
-8. My English level is Beginner. I am learning English now. 
+8. My English level is Elementary now. I am still learning English day by day. 
